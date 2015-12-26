@@ -1,0 +1,18 @@
+String Calculator Kata
+
+In the esercizio.php file you can find the development of all six steps.
+I developed the kata using PHP language. 
+
+Once you have copied the file into your root directory, you can launch the function form the file itself. 
+In order to demonstrate that i had worked incrementally, I started working on the following step copying the previuos function and 
+changing it. For this reason you will find six version of the add() module, in particular the first one will satisfy the requirements 
+of the first step,the second one the requirements of the second step and so on.
+
+Each version is named as: add_sepN()
+where N represents the number of the step on which it is referred to (1,2,3,4,5).
+The last step (i.e. step six) represents the final result. I decided to define this function exactly add().
+
+After each step, you will find the echo of the resulting string. To change the input string you can just edit this part and you 
+will see the result on your browser.
+
+ 
